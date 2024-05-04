@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hello!
+##Professional Interests
+I am a molecular biologist, and am interested in all the structures and systems which make cells work. I currently work in a clinical laboratory performing oncology testing as well as research to characterize the genetics of different tumors using molecular techniques. In my free time, I work on molecular dynamics (MD) simulations of various molecules, especially DNA secondary structures. Most of my simulations and analysis are done in Python using packages such as OpenMM, MDANalysis, and MatPlotLib, as well as non-Python tools CHARMM and VMD. I also occasionally write scripts in Python and MATLAB to do things like posterize images, generate cross-stitch patterns, and analyze capillary electropherograms.
+##About Me
+After growing up in Nashville, Tennessee, I moved to Dallas to attend UT Dallas for my undergrad education. I completed several research experiences and realized that I am most happy in a lab running experiments, problem solving, and reading publications. Since receiving my BS, I plan to continue my studies in graduate school with the ultimate goal of woring as a research scientist. 
 
-<!--
 **jasonwdavidson/jasonwdavidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
